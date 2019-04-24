@@ -80,7 +80,7 @@
 ;; Layout Column (t or nil)                                             ;;
 ;;----------------------------------------------------------------------;;
 
-    (setq utb:lay t)    ;; set to t if CSV file contains Layout Column
+    (setq utb:lay nil)    ;; set to t if CSV file contains Layout Column
 
 ;;----------------------------------------------------------------------;;
 ;; Block Name Column (t or nil)                                         ;;
